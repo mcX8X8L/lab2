@@ -1,0 +1,56 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    a = 1;
+    cout<<a;
+    cout<<endl;
+    cout<<"Квадрат цього числа дорівнює:\n";
+    cout<<a*a;
+    cout<<endl;
+    cout<<"Куб цього числа дорівнює:\n";
+    cout<<a*a*a;
+    cout<<endl;
+    int b;
+    b = 2;
+    cout<<b;
+    cout<<endl;
+    cout<<"Квадрат цього числа дорівнює:\n";
+    cout<<b*b;
+    cout<<endl;
+    cout<<"Куб цього числа дорівнює:\n";
+    cout<<b*b*b;
+    cout<<endl;
+    int c;
+    c = 3;
+    cout<<c;
+    cout<<endl;
+    cout<<"Квадрат цього числа дорівнює:\n";
+    cout<<c*c;
+    cout<<endl;
+    cout<<"Куб цього числа дорівнює:\n";
+    cout<<c*c*c;
+    cout<<endl;
+    int d;
+    d = 4;
+    cout<<d;
+    cout<<endl;
+    cout<<"Квадрат цього числа дорівнює:\n";
+    cout<<d*d;
+    cout<<endl;
+    cout<<"Куб цього числа дорівнює:\n";
+    cout<<d*d*d;
+    cout<<endl;
+    int e;
+    e = 5;
+    cout<<e;
+    cout<<endl;
+    cout<<"Квадрат цього числа дорівнює:\n";
+    cout<<e*e;
+    cout<<endl;
+    cout<<"Куб цього числа дорівнює:\n";
+    cout<<e*e*e;
+    cout<<endl;
+    return 0;
+}
